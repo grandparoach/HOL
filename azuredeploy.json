@@ -69,9 +69,9 @@
                 },
                 "storageProfile": {
                     "imageReference": {
-                        "publisher": "MicrosoftWindowsServer",
-                        "offer": "WindowsServer",
-                        "sku": "2016-Datacenter",
+                        "publisher": "microsoft-ads",
+                        "offer": "windows-data-science-vm",
+                        "sku": "windows2016",
                         "version": "latest"
                     },
                     "osDisk": {
