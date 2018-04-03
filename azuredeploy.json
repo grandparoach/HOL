@@ -91,7 +91,7 @@
                 }
             },
             "plan": {
-                "name": "windows2016",
+                "name": "windows2016byol",
                 "publisher": "microsoft-ads",
                 "product": "windows-data-science-vm"
             }
